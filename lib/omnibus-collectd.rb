@@ -1,0 +1,2 @@
+require "omnibus-collectd/version"
+
