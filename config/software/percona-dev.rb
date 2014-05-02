@@ -1,4 +1,5 @@
 name "percona-dev"
+default_version "5.5.33-rel31.1-566-static-openssl-1.0.1e"
 version "5.5.33-rel31.1-566-static-openssl-1.0.1e"
 dependency "rsync"
 dependency "ncurses"

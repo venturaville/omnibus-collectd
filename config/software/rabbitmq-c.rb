@@ -16,6 +16,7 @@
 #
 
 name "rabbitmq-c"
+default_version "rabbitmq-c-v0.3.0"
 version "rabbitmq-c-v0.3.0"
 
 dependencies ["autoconf", "automake", "libtool"]

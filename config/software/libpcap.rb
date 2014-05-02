@@ -16,6 +16,7 @@
 #
 
 name "libpcap"
+default_version "1.4.0"
 version "1.4.0"
 
 source :url => "http://www.tcpdump.org/release/libpcap-#{version}.tar.gz",

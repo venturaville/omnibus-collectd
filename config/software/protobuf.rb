@@ -15,6 +15,7 @@
 # limitations under the License.
 #
 name "protobuf"
+default_version "2.5.0"
 version "2.5.0"
 
 source :url => "https://protobuf.googlecode.com/files/protobuf-#{version}.tar.gz",

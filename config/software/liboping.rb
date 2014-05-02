@@ -15,6 +15,7 @@
 # limitations under the License.
 #
 name "liboping"
+default_version "1.6.2"
 version "1.6.2"
 
 source :url => "http://verplant.org/liboping/files/liboping-1.6.2.tar.gz",

@@ -16,6 +16,7 @@
 #
 
 name "ncurses"
+default_version "5.9"
 version "5.9"
 
 dependency "libgcc"
