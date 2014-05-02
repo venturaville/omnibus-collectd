@@ -16,7 +16,6 @@
 #
 name "liboping"
 default_version "1.6.2"
-version "1.6.2"
 
 source :url => "http://verplant.org/liboping/files/liboping-1.6.2.tar.gz",
        :md5 => "6f3e0d38ea03362476ac3be8b3fd961e"

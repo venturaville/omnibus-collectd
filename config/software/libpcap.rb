@@ -17,7 +17,6 @@
 
 name "libpcap"
 default_version "1.4.0"
-version "1.4.0"
 
 source :url => "http://www.tcpdump.org/release/libpcap-#{version}.tar.gz",
        :md5 => "56e88a5aabdd1e04414985ac24f7e76c"

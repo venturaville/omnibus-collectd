@@ -16,7 +16,6 @@
 #
 name "protobuf-c"
 default_version "0.15"
-version "0.15"
 
 dependency "protobuf"
 

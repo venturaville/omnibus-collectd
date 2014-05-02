@@ -17,7 +17,6 @@
 
 name "libgpg-error"
 default_version "1.12"
-version "1.12"
 
 source :url => "ftp://ftp.gnupg.org/gcrypt/libgpg-error/libgpg-error-#{version}.tar.bz2",
        :md5 => "8f0eb41a344d19ac2aa9bd101dfb9ce6"
