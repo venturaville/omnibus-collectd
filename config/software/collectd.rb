@@ -16,6 +16,7 @@
 #
 
 name "collectd"
+default_version "5.4.0"
 version "5.4.0"
 
 dependency "cmake"
